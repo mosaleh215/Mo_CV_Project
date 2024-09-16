@@ -1,0 +1,18 @@
+
+*link of dataset:
+https://www.kaggle.com/datasets/jeffaudi/coco-2014-dataset-for-yolov3
+________________________________________________________________________
+
+link of notebooks of code:
+
+*Final @ version 2 of-code-with-simple-ui ==>>>>>>>>>
+
+https://www.kaggle.com/code/mohmedsalh/easy-and-fast-version-of-code-with-simple-ui/edit
+
+*version1-code-of-task ==>>>>>>>>>
+
+https://www.kaggle.com/code/mohmedsalh/version1-code-of-task/edit
+
+*visualization & object-detection-with-bbox-custom-method ==>>>>>>>>>
+
+https://www.kaggle.com/code/mohmedsalh/visualization-object-d-with-bbox-custom-method/edit
